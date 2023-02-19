@@ -22,3 +22,6 @@
     //Baştan dizi sırayla taranarak her aşamada bulunan en küçük sayı dizinin başındaki değerle yer değiştirilerek sıralam işlemi yapılıyor.
 
     //Yukarıdaki Big-O gösteriminden anlaşıldığı üzere diziyi sıralamak için dizideki eleman sayısı kadar işlem yapılabilir. Bu durumu 1'den n'e kadar olan sayıların toplamı olarak formüle edebiliriz. Formül((1/2)*(n.(n+1))) Bu işlem Big-O Notation gösterimlerinden O(n^2) olarak kabul edebiliriz.
+    ..
+    ..
+    ..
