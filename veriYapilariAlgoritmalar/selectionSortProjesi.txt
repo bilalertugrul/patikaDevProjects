@@ -28,6 +28,10 @@
     formüle edebiliriz. Formül((1/2)*(n.(n+1))) Bu işlem Big-O Notation gösterimlerinden O(n^2) 
     
     olarak kabul edebiliriz.
-    ..
+   
+    Soru :Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? 
+
+    Cevap: Average case: Aradığımız sayının ortada olması kapsamına girer.
+
     ..
     ..
