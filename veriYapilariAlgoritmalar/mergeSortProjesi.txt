@@ -20,3 +20,6 @@ Big-O gösterimini yazınız.
 Time Complexity:
 -Her seferinde ikiye bölerek işlem yaptığımız için 2^x = n yani logn=x diyebiliriz.
 -Bütün işlemler düşünüldüğünde Big-O gösterimi=O(nlogn)
+
+...
+...
