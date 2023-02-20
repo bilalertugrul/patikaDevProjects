@@ -12,9 +12,9 @@ Proje 3
 
 Root 7 olarak belirleyelim.
 
-Root'un sağında 5,1,3,6,0,4,2 bulunur.
+Root'un solunda 5,1,3,6,0,4,2 bulunur.
 
-Root'un solunda 8,9 bulunur.
+Root'un sağında 8,9 bulunur.
 
 ![Binary Search Tree](binarysearchtree.JPG)
 
